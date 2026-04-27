@@ -8,7 +8,8 @@ Main functionalities:
 `CRISM_cube_visualization_and_analysis.ipynb`
 - Hyperspectral cube visualization;
 - Production of RGB browse product;
-- Spectra extraction (with spectral ratioing) from ROIs. 
+- Export of RGBs with coordinate reference system;
+- Spectra extraction (with spectral ratioing) from ROIs (point, square, polygon). 
 
 `CRISM_ratioed_cube_MTRDR.ipynb`
 - Computes a "ratioed" CRISM cube, where every pixel of the scene is a ratioed spectrum. 
